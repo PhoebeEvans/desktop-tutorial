@@ -1,0 +1,9 @@
+1_ Amelia Anderson _18_Adult_ 07/07/2004 _ 810 Front St., Leadville, CO 80461 _ 719-486-0749 _ 2.0030
+2_ William Anderson _18_Adult_ 11/05/2004 _ 812 Front St., Leadville, CO 80461 _ 719-486-0636 _ 2.0031
+3_ Cassie Pomiselus _6_Child_ 04/04/2016 _ 2800 Halfmoon Rd., Leadville, CO 80461 _ 719-486-3536 _ 2.0032
+4_ Harry Stuart _44_Adult_ 12/12/1977 _ 2462 CO-300, Leadville, CO 80461 _ 719-486-1551 _ 2.0033
+5_ Jim Pennington _25_Adult_ 05/15/1997 _ 800 Harrison Ave, Leadville, CO 80461 _ 719-486-7778 _ 2.0034
+6_ Janet Stuart _13_Child_ 07/08/2009 _ 2572 Co. Rd. 22, Fairplay, CO 80641 _ 719-486-8888 _ 2.0036
+7_John Doe_91_Adult_01/01/1931_000 Somewhere St., No Where, USA 12345_719-486-0000_2.0038
+8_Violet Pomiselus_13_Child_07/07/2009_2800 Halfmoon Rd., Leadville, CO 80461_719-486-4444_2.0039
+9_Lillian Stuart_23_Adult_04/04/1999_2343 Co. Rd. 22, Fairplay, CO 80440_719-486-1959_2.0041

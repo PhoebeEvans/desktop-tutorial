@@ -1,0 +1,12 @@
+Colorado's Fourteeners   ~   2007   ~   3.1.0013 ~  Cassie Pomiselus  ~  04/04/2016  ~  2.0032 ~ 12/7/2022 ~returned 12/7/2022                                                  ~ Self-Checkout ~ 000
+Colorado's Fourteeners  ~  2007  ~  3.1.0013~  William Anderson  ~  11/05/2004  ~  2.0031 ~ 12/7/2022 ~returned 12/8/2022           ~ S ~ 00
+Colorado's Fourteeners  ~  2007  ~  3.1.0013~  Amelia Anderson  ~  07/07/2004  ~  2.0030 ~ 12/7/2022 ~12/21/2022                                             ~ s ~ 0
+Colorado's Fourteeners   ~   2007   ~   3.1.0013 ~  Cassie Pomiselus  ~  04/04/2016  ~  2.0032 ~ 12/1/2022 ~returned 12/7/2022                     ~ self ~ 000
+Roof of the Rockies   ~   2000   ~   3.1.0012 ~  Amelia Anderson  ~  07/07/2004  ~  2.0030 ~ 12/7/2022 ~returned 12/7/2022                                         ~ s ~ 0
+  Roof of the Rockies   ~   2000   ~   3.1.0012 ~  Amelia Anderson  ~  07/07/2004  ~  2.0030 ~ 12/7/2022 ~ 12/21/2022                                          ~ Self-Checkout ~ 000
+  Mr. Smith Goes to Washington   ~   1939   ~   3.2.0013 ~  Jim Pennington  ~  05/15/1997  ~  2.0034 ~ 12/7/2022 ~returned 12/9/2022~ Self-Checkout ~ 000
+  To Be or Noth to Be   ~   1942   ~   3.2.0014 ~ Violet Pomiselus ~ 07/07/2009 ~ 2.0039 ~ 12/7/2022 ~ 12/10/2022                    ~ Self-Checkout ~ 000
+  Saboteur  ~  1942  ~  3.2.0016~ Rosalie Washburn ~ 08/14/2002 ~ 2.0037~12/9/2022~12/12/2022   ~Maria Ramos~1007
+  Saboteur  ~  1942  ~  3.2.0016~ Janet Stuart ~ 07/08/2009 ~ 2.0036~12/9/2022~12/12/2022  ~Self-Checkout~000
+  Saboteur  ~  1942  ~  3.2.0016~ Amelia Anderson ~ 07/07/2004 ~ 2.0030~12/9/2022~12/12/2022  ~Maria Ramos~000
+  Foreign Correspondent  ~  1940  ~  3.2.0012~ Harry Stuart ~ 12/12/1977 ~ 2.0033~12/9/2022~12/12/2022~Self-Checkout~000
